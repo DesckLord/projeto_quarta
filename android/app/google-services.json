@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "220349822644",
+    "project_id": "projetoquartanoite",
+    "storage_bucket": "projetoquartanoite.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220349822644:android:c6eb4bd7b73b2849d449e1",
+        "android_client_info": {
+          "package_name": "com.example.projeto_quarta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220349822644-gej250hal227af5r57vsmn13h3slmfbr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgrfX9t-I3YS89zYKjnZWobz9hSMn28Qw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220349822644-gej250hal227af5r57vsmn13h3slmfbr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
